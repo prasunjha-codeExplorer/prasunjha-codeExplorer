@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasun Kumar Jha</h1>
-<h3 align="center">🚀 Web Developer | React Learner | Code Explorer</h3>
+<h3 align="center">🚀 Competitive Programer | React Learner | Problem Solver</h3>
 
 ---
 
@@ -27,8 +27,8 @@
 
 ### 🔗 My Projects
 
-- 🎬 [Netflix Cards - React](https://github.com/prasunjha-codeExplorer/Netflix-cards)
-- ✊ [Rock-Paper-Scissors](#)
+- 🎬 [Netflix Cards - React]((https://netflix-cards-liart.vercel.app/))
+- ✊ [Rock-Paper-Scissors](https://tic-tac-toe-game-xi-three.vercel.app/)
 - ❌⭕ [Tic-Tac-Toe](#)
 - 🔗 [More projects coming soon!](#)
 
