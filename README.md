@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: **React Projects**
 - 🌱 I’m learning: **React.js, JavaScript, Git, and GitHub**
 - 💬 Ask me about: **HTML, CSS, JavaScript, React**
-- 📫 How to reach me: **prasunjhakr01@gmail.com**
+- 📫 How to reach me: **prasunjha9431@gmail.com**
 - ⚡ Fun fact: I break things to build better things 😄
 
 ---
