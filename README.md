@@ -27,7 +27,7 @@
 
 ### 🔗 My Projects
 
-- 🎬 [Netflix Cards - React]((https://netflix-cards-liart.vercel.app/))
+- 🎬 [Netflix Cards - React](https://netflix-cards-liart.vercel.app/)
 - ✊ [Rock-Paper-Scissors](https://tic-tac-toe-game-xi-three.vercel.app/)
 - ❌⭕ [Tic-Tac-Toe](#)
 - 🔗 [More projects coming soon!](#)
