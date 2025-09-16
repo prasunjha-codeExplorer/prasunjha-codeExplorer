@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasun Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Prasun Jha</h1>
 <h3 align="center">🚀 Competitive Programmer | React Learner | Problem Solver</h3>
 
 ---
