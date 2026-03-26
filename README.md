@@ -32,8 +32,8 @@
 
 ### 🔗 My Projects
 
-- 🏥 [Hospital Management System (Swing + JDBC)](#)
-- 🎬 [Netflix Cards - React](https://netflix-cards-liart.vercel.app/)
+- 🏥 [Crypto Tracker Application : SpringBoot](#)
+- 🎬 [Paste Application : React](https://netflix-cards-liart.vercel.app/)
 - AND MANY MORE.....
 
 ---
