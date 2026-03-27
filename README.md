@@ -33,7 +33,7 @@
 ### 🔗 My Projects
 
 - 🏥 [Crypto Tracker Application : SpringBoot](#)
-- 🎬 [Paste Application : React]((https://react-paste-application.vercel.app/))
+- 🎬 [Paste Application : React](https://react-paste-application.vercel.app/)
 - AND MANY MORE.....
 
 ---
